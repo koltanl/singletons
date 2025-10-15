@@ -51,6 +51,22 @@ Think of this as a personal arsenal of specialized instruments. If a script solv
 
 ---
 
+### setup-nnn.sh
+
+**Usage:**
+```bash
+# Full installation
+./setup-nnn.sh
+
+# Test current setup without installing
+./setup-nnn.sh --test
+
+# Show help
+./setup-nnn.sh --help
+```
+
+---
+
 ## Contributing
 
 If you're not the repository owner: These are personal utility scripts. Feel free to fork for your own use, but this isn't a collaborative project.
@@ -60,4 +76,3 @@ If you are the repository owner: Only add scripts that meet the "heavy hitter" c
 ## License
 
 GPL-3.0 - See LICENSE file for details.
-
